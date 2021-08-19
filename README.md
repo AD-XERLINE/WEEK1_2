@@ -17,11 +17,11 @@ int main () {
 	printf("%.2lf\n",bmi);
 	printf("----------------------------------\n");
     printf("       Body Mass Index\n");
-    printf("   >18.5   = under the threshold\n");
+    printf("  >=18.5   = under the threshold\n");
     printf(" 18.5-22.9 =        slim\n");
     printf(" 23.0-24.9 =      overweight\n");
     printf(" 25.0-29.9 =       obesity\n");
-    printf("   >30.0   =   Dangerous obesity\n");
+    printf("  >=30.0   =   Dangerous obesity\n");
     printf("----------------------------------\n");
 
 return 0;
