@@ -1,9 +1,10 @@
-# -1_2
-Week 1.2
+โปรแกรมรายสัปดาห์ที่ 1 อันที่ 2
+
 
 #include<stdio.h>
 #include<math.h>
-int main () {
+
+        int main () {
 	double W ;
 	double H ;
 	
@@ -24,5 +25,5 @@ int main () {
     printf("  >=30.0   =   Dangerous obesity\n");
     printf("----------------------------------\n");
 
-return 0;
-}
+    return 0;
+    }
